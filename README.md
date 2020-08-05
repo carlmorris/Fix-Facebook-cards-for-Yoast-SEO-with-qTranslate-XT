@@ -3,7 +3,7 @@ Developed by: Carl Morris
 Contributors:
 Tags: multilingual, language, facebook, yoast, seo, bilingual, i18n, l10n, multilanguage, translation  
 Requires: 4.0
-Tested up to: 5.4.2  
+Tested up to: 5.4.2
 Stable tag: N/A  
 License: GPLv3 or later  
 License URI: http://www.gnu.org/licenses/gpl-3.0.html  
@@ -16,9 +16,11 @@ This WordPress plugin fixes a Facebook cards problem when running qTranslateXT a
 
 1. This plugin requires qTranslate-XT and Yoast SEO.
 1. Install the plugin in wp-content/plugins
-1. Activate the plugin.
+1. Activate the plugin to begin automatic rewriting of the og:url metatag.
 1. Test your URLs in the Facebook Debugger https://developers.facebook.com/tools/debug/
 
+This is a very simple WordPress plugin. There are no customisation options nor dashboard options.
+ 
 ## Changelog
 
 ### 1.0
